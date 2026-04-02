@@ -1,5 +1,5 @@
 const projetos = [
-    { img: 'https://storage.googleapis.com/operfluxo/projetos_gerais/projetoPortfolio.png', titulo: 'Meu Portfólio', link: 'https://github.com' }
+    { img: 'https://storage.googleapis.com/operfluxo/projetos_gerais/projetoPortfolio.png', titulo: 'Meu Portfólio', link: 'https://github.com/franferreiraalencar-coder/Meu-portifolio' }
 ];
 
 document.getElementById('projetos-container').innerHTML = projetos.map(p => `
